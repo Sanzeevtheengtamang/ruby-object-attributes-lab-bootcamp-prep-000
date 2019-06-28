@@ -1,4 +1,4 @@
 class Dog
-  def in
+  def initalize(name,breed)
   
 end
